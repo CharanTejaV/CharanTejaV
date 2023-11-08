@@ -1,6 +1,6 @@
 👋 Hi, I’m @CharanTejaV
 
-📊 Highly skilled Data Analyst with 4 years of experience in analytics, specializing in data engineering and programming.
+📊 Data Analyst with 4 years of experience in analytics, specializing in data engineering and programming.
 
 🎓 Pursuing a Master's in Business Analytics at the University of New Haven (Expected Graduation: Dec 2023).
 
