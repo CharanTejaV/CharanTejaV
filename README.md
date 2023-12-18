@@ -4,7 +4,7 @@
 
 🎓 Pursuing a Master's in Business Analytics at the University of New Haven (Expected Graduation: Dec 2023).
 
-💼 Previous experience at Latentview Analytics, India and Cognizant, India, contributing to data quality improvement and process optimization.
+💼 Previous experience at Latentview Analytics, India and Cognizant, India, contributing to data integration, data quality improvement and process optimization.
 
 💡 Passionate about leveraging data to drive impactful business decisions and solve complex problems.
 
