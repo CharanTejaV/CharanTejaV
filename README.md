@@ -1,4 +1,4 @@
-👋 Hi, I’m @CharanTejaV
+👋 Hi, I’m Charan Teja Vangapandu
 
 📊 Data Engineer with 3.7 years of experience in analytics, specializing in data engineering and programming.
 
