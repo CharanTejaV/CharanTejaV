@@ -1,8 +1,8 @@
 👋 Hi, I’m @CharanTejaV
 
-📊 Data Engineer with 4 years of experience in analytics, specializing in data engineering and programming.
+📊 Data Engineer with 3.7 years of experience in analytics, specializing in data engineering and programming.
 
-🎓 Pursuing a Master's in Business Analytics at the University of New Haven (Expected Graduation: Dec 2023).
+🎓 Master's in Business Analytics at the University of New Haven.
 
 💼 Previous experience at Latentview Analytics, India and Cognizant, India, contributing to data integration, data quality improvement and process optimization.
 
