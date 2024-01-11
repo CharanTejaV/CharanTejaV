@@ -1,6 +1,6 @@
 👋 Hi, I’m Charan Teja Vangapandu
 
-📊 Data Engineer with 3.7 years of experience in analytics, specializing in data engineering and programming.
+📊 Data Engineer with close to 4 years of experience in analytics, specializing in data engineering and programming.
 
 🎓 Master's in Business Analytics at the University of New Haven.
 
