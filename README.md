@@ -12,4 +12,4 @@
 
 📧 Let's connect and discuss data analytics, business insights, or related topics. Open to exciting opportunities!
 
-📫 How to reach me: vangapanducharanteja50@gmail.com
+📫 How to reach me: charantejavangapandu@gmail.com
