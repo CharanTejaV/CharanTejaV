@@ -4,7 +4,7 @@
 
 🎓 Master's in Business Analytics from the University of New Haven.
 
-💼 Current role at Citizens Bank (AVP – Data Analyst), where I build enterprise-level data products, marketing measurement, campaign tracking frameworks, and performance dashboards using SQL, Python, Snowflake, Tableau, and cloud data ecosystems. Previously worked at LatentView Analytics, and Cognizant, contributing to Adobe marketing analytics, data governance projects, ETL pipelines design, and improving data quality across large-scale systems.
+💼 Current role at Citizens Bank (AVP – Data Analyst), where I build enterprise-level data products, marketing measurement, campaign tracking frameworks, and performance dashboards using SQL, Python, Snowflake, Tableau, and cloud data ecosystems. Previously worked at Morgan Stanley, LatentView Analytics, and Cognizant, contributing to Portfolio Risk Analytics, Adobe marketing analytics, data governance projects, ETL pipelines design, and improving data quality across large-scale systems.
 
 🛠 Skilled in SQL, Python, Snowflake, Redshift, Azure, AWS, Marketing Analytics, Campaign Tracking, A/B testing, data modeling, ETL/ELT, Tableau, Power BI, and end-to-end analytics workflows.
 
